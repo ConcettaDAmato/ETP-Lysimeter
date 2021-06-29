@@ -1,0 +1,14 @@
+@T,table
+Created,2020-05-27 21:47
+Author,HortonMachine library
+@H,timestamp,value_1
+ID,,1
+Type,Date,Double
+Format,yyyy-MM-dd HH:mm,
+,2013-12-15 15:00,18.01639936046856
+,2013-12-15 16:00,-9999
+,2013-12-15 17:00,0.0
+,2013-12-15 18:00,0.0
+,2013-12-15 19:00,0.0
+,2013-12-15 20:00,0.0
+
